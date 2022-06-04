@@ -1,0 +1,2 @@
+Para consumir a api entrei no site https://jsonbin.io/create e criei um arquivo json e copiei o link que ele me gera https://api.jsonbin.io/b/629a974305f31f68b3b56157/1
+feito isso foi apenas seguir com o progeto
